@@ -48,7 +48,7 @@
   <img align="left" alt="Hnoss33 Github Stats" src="https://github-readme-stats.Hnoss33.vercel.app/api?username=Hnoss33&show_icons=true&hide_border=true" />
 
 </details> -->
-[discord]: https://twitter.com/Hnoss33
+[discord]: https://discord.gg/PXWxvr
 [bitcoin]: https://crypto.com/exch/rbad2zyykd
 [twitter]: https://twitter.com/Hnoss33
 [instagram]: https://instagram.com/horacio__jg0
