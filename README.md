@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything :trollface:
 - :octocat: I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun Fact: I love :bitcoin: Cryptos! :goberserk:
+- ⚡ Fun Fact: I love Cryptos! :goberserk:
 
 ----
 
@@ -42,12 +42,12 @@
 <br />
 <br />
 
-<details>
+<!-- <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Hnoss33 Github Stats" src="https://github-readme-stats.Hnoss33.vercel.app/api?username=Hnoss33&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 
 [twitter]: https://twitter.com/Hnoss33
