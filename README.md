@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything :trollface:
 - :octocat: I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- :goberserk:I love Cryptos!<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[Bitcoin].svg" />
+- :goberserk:I love Cryptos!<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Bitcoin.svg" />
 
 ----
 
