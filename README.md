@@ -22,7 +22,7 @@
 
 [<img align="left" alt="Hnoss33 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">][]
+[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">][discord]
 
 <br />
 
@@ -48,7 +48,7 @@
   <img align="left" alt="Hnoss33 Github Stats" src="https://github-readme-stats.Hnoss33.vercel.app/api?username=Hnoss33&show_icons=true&hide_border=true" />
 
 </details> -->
-
+[discord]: https://twitter.com/Hnoss33
 [bitcoin]: https://crypto.com/exch/rbad2zyykd
 [twitter]: https://twitter.com/Hnoss33
 [instagram]: https://instagram.com/horacio__jg0
