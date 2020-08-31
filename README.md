@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything :trollface:
 - :octocat: I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun Fact: I love Cryptos! :goberserk:
+- ⚡ Fun Fact: I love :bitcoin: Cryptos! :goberserk:
 
 ----
 
