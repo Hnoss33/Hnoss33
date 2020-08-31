@@ -12,8 +12,8 @@
 
 ----
 ### Spotify Playing 🎧
-<!-- [<img src="https://spoty-github-git-master.hnoss33.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12132807294) -->
-[(https://spoty-github.vercel.app/api/spotify)](https://open.spotify.com/user/12132807294)
+[<img src="https://spoty-github.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12132807294)
+
 
 
 
@@ -46,7 +46,7 @@
   <img align="left" alt="Hnoss33 Github Stats" src="https://github-readme-stats.Hnoss33.vercel.app/api?username=Hnoss33&show_icons=true&hide_border=true" />
 
 </details> -->
-[Spotify]: https://open.spotify.com/playlist/3QTDOOuXrUDgt3tstLqzdu
+<!-- [Spotify]: https://open.spotify.com/playlist/3QTDOOuXrUDgt3tstLqzdu -->
 [discord]: https://discord.gg/PXWxvr
 [bitcoin]: https://crypto.com/exch/rbad2zyykd
 [twitter]: https://twitter.com/Hnoss33
