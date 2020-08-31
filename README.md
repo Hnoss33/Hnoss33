@@ -12,7 +12,9 @@
 
 ----
 ### Spotify Playing 🎧
-[<img src="https://spoty-github.hnoss33.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/2tPZ168YJQpND2YPCAzqSw)
+[<img src="https://spoty-github.hnoss33.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12132807294)
+
+
 
 
 ### Connect with me:
