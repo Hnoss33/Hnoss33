@@ -12,10 +12,17 @@
 
 ----
 ### Spotify Playing 🎧
-<!-- [<img src="https://spoty-github-git-master.hnoss33.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12132807294) -->
-[![Spotify](https://spoty-github.vercel.app/api/spotify)](https://open.spotify.com/user/12132807294)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://spoty-github.vercel.app/api/spotify)](https://open.spotify.com/user/12132807294)
 
-
+  </td>
+  <td width="50%">
+<br>
+  </td>
+  </table>
 
 
 ### Connect with me:
