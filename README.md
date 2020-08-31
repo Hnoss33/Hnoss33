@@ -22,7 +22,7 @@
 
 [<img align="left" alt="Hnoss33 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+[https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white][]
 
 <br />
 
