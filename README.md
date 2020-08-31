@@ -12,7 +12,8 @@
 
 ----
 ### Spotify Playing 🎧
-[<img src="https://spoty-github-git-master.hnoss33.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12132807294)
+<!-- [<img src="https://spoty-github-git-master.hnoss33.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12132807294) -->
+[![Spotify](https://spoty-github.vercel.app/api/spotify)](https://open.spotify.com/user/12132807294)
 
 
 
