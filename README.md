@@ -12,7 +12,10 @@
 
 ----
 ### Spotify Playing 🎧
-[<img src="https://now-playing-Hnoss33.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/4sQSF3XAB6lTNxiTBbXsLz)
+<!-- [<img src="https://now-playing-Hnoss33.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/4sQSF3XAB6lTNxiTBbXsLz) -->
+[![Spotify](https://spoty-github.hnoss33.vercel.app/api/spotify)](https://open.spotify.com/playlist/2tPZ168YJQpND2YPCAzqSw)
+
+
 
 ### Connect with me:
 [<img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
