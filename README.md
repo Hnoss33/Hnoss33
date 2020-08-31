@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything :trollface:
 - :octocat: I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun Fact: I love Cryptos! :goberserk:
+- ⚡ Fun Fact: I love Cryptos! :goberserk:[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[Bitcoin].svg" />][bitcoin]
 
 ----
 
@@ -49,7 +49,7 @@
 
 </details> -->
 
-
+[bitcoin]: https://crypto.com/exch/rbad2zyykd
 [twitter]: https://twitter.com/Hnoss33
 [instagram]: https://instagram.com/horacio__jg0
 [linkedin]: https://linkedin.com/in/...
