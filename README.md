@@ -11,7 +11,7 @@
 - ⚡ Fun Fact: I love Cryptos!
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/2tPZ168YJQpND2YPCAzqSw)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/4sQSF3XAB6lTNxiTBbXsLz)
 
 ### Connect with me:
 
@@ -41,7 +41,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+  <img align="left" alt="Hnoss33's Github Stats" src="https://github-readme-stats.Hnoss33.vercel.app/api?username=Hnoss33&show_icons=true&hide_border=true" />
 
 </details>
 
