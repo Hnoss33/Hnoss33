@@ -5,10 +5,10 @@
 ## I'm a "Junior" Developer!
 
 - :suspect: I’m currently working on a [Covid-19-tracker and Spotify Clone Using React]!
-- 🌱 I’m currently learning everything  :trollface:
+- :godmode: I’m currently learning everything  :trollface:
 - :octocat: I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- :goberserk: I love Cryptos!  [<img style="color:#F7931A" alt="Crypto.com | Bitcoin" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitcoin.svg" />][bitcoin]
+- :rage1: 2020 Goals: Contribute more to Open Source projects
+- :rage2: I love Cryptos!  [<img style="color:#F7931A" alt="Crypto.com | Bitcoin" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitcoin.svg" />][bitcoin]
 
 ----
 
