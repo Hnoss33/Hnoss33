@@ -1,6 +1,7 @@
-### Hi there, I'm Horacio ♣️♥️♠️♦️ :colombia: :australia:
-
+### Hi there, I'm Horacio ♣️ ♥️ ♠️ ♦️ :colombia: :australia:
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hnoss33?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHnoss33&screen_name=Hnoss33)
+
+----
 
 ## I'm Web Developer!
 
@@ -16,18 +17,15 @@
 [<img src="https://now-playing-Hnoss33.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/4sQSF3XAB6lTNxiTBbXsLz)
 
 ### Connect with me:
-
-
 [<img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 [<img align="left" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 [<img align="left" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">][discord]
 
-<br />
+----
 
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
