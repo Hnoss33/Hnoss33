@@ -46,6 +46,7 @@
   <img align="left" alt="Hnoss33 Github Stats" src="https://github-readme-stats.Hnoss33.vercel.app/api?username=Hnoss33&show_icons=true&hide_border=true" />
 
 </details> -->
+[Spotify]: https://open.spotify.com/playlist/3QTDOOuXrUDgt3tstLqzdu
 [discord]: https://discord.gg/PXWxvr
 [bitcoin]: https://crypto.com/exch/rbad2zyykd
 [twitter]: https://twitter.com/Hnoss33
