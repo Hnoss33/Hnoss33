@@ -12,7 +12,7 @@
 
 ----
 ### Spotify Playing 🎧
-[<img src="https://spoty-github.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12132807294)
+[<img src="https://w7.pngwing.com/pngs/879/271/png-transparent-spotify-computer-icons-streaming-media-music-home-icons-hand-logo-music-download.png" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12132807294)
 
 
 
