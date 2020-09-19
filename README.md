@@ -12,7 +12,7 @@
 
 ----
 ### Spotify Playing 🎧
-[<img style="color:#1ED760" alt="spotify.com | Spotify" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Spotify.svg" />](https://open.spotify.com/user/12132807294)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />](https://open.spotify.com/user/12132807294)
 
 
 ### Connect with me:
