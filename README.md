@@ -12,10 +12,7 @@
 
 ----
 ### Spotify Playing 🎧
-[<img src="https://w7.pngwing.com/pngs/879/271/png-transparent-spotify-computer-icons-streaming-media-music-home-icons-hand-logo-music-download.png" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12132807294)
-
-
-
+[<img style="color:#1ED760" alt="spotify.com | Spotify" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Spotify.svg" />](https://open.spotify.com/user/12132807294)
 
 
 ### Connect with me:
