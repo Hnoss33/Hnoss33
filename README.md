@@ -11,9 +11,8 @@
 - :rage2: I love Cryptos!  [<img style="color:#F7931A" alt="Crypto.com | Bitcoin" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitcoin.svg" />][bitcoin]
 
 ----
-### Spotify Playing 🎧 [<img style="color:#1ED760" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />](https://open.spotify.com/user/12132807294)
-
-
+### Spotify PlayList [<img style="color:#1ED760" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />](https://open.spotify.com/user/12132807294)
+----
 ### Connect with me:
 [<img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
